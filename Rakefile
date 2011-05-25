@@ -21,3 +21,21 @@ Rake::RDocTask.new(:rdoc) do |rdoc|
   rdoc.rdoc_files.include('README')
   rdoc.rdoc_files.include('lib/**/*.rb')
 end
+
+begin
+  require 'jeweler'
+  Jeweler::Tasks.new do |s|
+    s.name = "poker_history"
+    s.version = '0.0.1'
+    s.summary = "Poker hands history parser"
+    s.description = "Poker hands history parser. Supported rooms: PokerStars, PartyPoker, FullTilt"
+    s.email = "galeta.igor@gmail.com"
+    s.homepage = "https://github.com/galetahub/poker_history"
+    s.authors = ["Igor Galeta"]
+    s.files =  FileList["[A-Z]*", "{spec,lib}/**/*"]
+  end
+  
+  Jeweler::GemcutterTasks.new
+rescue LoadError
+  puts "Jeweler not available. Install it with: gem install jeweler"
+end
