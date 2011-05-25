@@ -1,0 +1,41 @@
+PokerStars Game #52369380338:  Hold'em No Limit ($0.01/$0.02 USD) - 2010/11/08 10:17:50 ET
+Table 'Benetnash IV' 6-max Seat #4 is the button
+Seat 1: sharkslo ($1.62 in chips) 
+Seat 2: devoted4dM ($0.34 in chips) 
+Seat 3: graton25 ($5.12 in chips) 
+Seat 4: Hman420 ($0.88 in chips) 
+Seat 5: Repperoni ($2.25 in chips) 
+Seat 6: doit312 ($2 in chips) 
+Repperoni: posts small blind $0.01
+doit312: posts big blind $0.02
+*** HOLE CARDS ***
+Dealt to doit312 [Kc Kh]
+sharkslo: folds 
+devoted4dM: calls $0.02
+graton25: raises $0.06 to $0.08
+Hman420: folds 
+Repperoni: folds 
+doit312: raises $0.20 to $0.28
+devoted4dM: folds 
+graton25: calls $0.20
+*** FLOP *** [2s Jd 4s]
+doit312: bets $0.42
+graton25: calls $0.42
+*** TURN *** [2s Jd 4s] [Qh]
+doit312: bets $1.06
+graton25: calls $1.06
+*** RIVER *** [2s Jd 4s Qh] [6h]
+doit312: bets $0.24 and is all-in
+graton25: folds 
+Uncalled bet ($0.24) returned to doit312
+doit312 collected $3.38 from pot
+doit312: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.55 | Rake $0.17 
+Board [2s Jd 4s Qh 6h]
+Seat 1: sharkslo folded before Flop (didn't bet)
+Seat 2: devoted4dM folded before Flop
+Seat 3: graton25 folded on the River
+Seat 4: Hman420 (button) folded before Flop (didn't bet)
+Seat 5: Repperoni (small blind) folded before Flop
+Seat 6: doit312 (big blind) collected ($3.38)

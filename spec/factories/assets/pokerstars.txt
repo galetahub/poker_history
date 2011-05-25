@@ -1,0 +1,54 @@
+PokerStars Game #27239832332: Tournament #156906452, $8.00+$0.80 Hold'em No Limit - Level XIV (200/400) - 2009/04/18 17:59:23 CT [2009/04/18 18:59:23 ET]
+Table '156906452 6' 9-max Seat #6 is the button
+Seat 1: delvo 01 (16375 in chips) 
+Seat 2: joe1941 (7860 in chips) 
+Seat 5: rchdot (48360 in chips) 
+Seat 6: jutro7 (14331 in chips) 
+Seat 7: fredmonster9 (9180 in chips) 
+Seat 8: situationist (18057 in chips) 
+Seat 9: Pla8Net (13768 in chips) 
+delvo 01: posts the ante 50
+joe1941: posts the ante 50
+rchdot: posts the ante 50
+jutro7: posts the ante 50
+fredmonster9: posts the ante 50
+situationist: posts the ante 50
+Pla8Net: posts the ante 50
+fredmonster9: posts small blind 200
+situationist: posts big blind 400
+*** HOLE CARDS ***
+Dealt to situationist [8d Ts]
+Pla8Net: folds 
+delvo 01: folds 
+joe1941: folds 
+rchdot: folds 
+jutro7: calls 400
+fredmonster9: calls 200
+situationist: checks 
+*** FLOP *** [Kc 8h Kh]
+fredmonster9: checks 
+situationist: checks 
+jutro7: checks 
+*** TURN *** [Kc 8h Kh] [9c]
+fredmonster9: checks 
+situationist: bets 400
+jutro7: calls 400
+fredmonster9: folds 
+*** RIVER *** [Kc 8h Kh 9c] [Jd]
+situationist: checks 
+jutro7: bets 800
+situationist: calls 800
+*** SHOW DOWN ***
+jutro7: shows [Th Jh] (two pair, Kings and Jacks)
+situationist: mucks hand 
+jutro7 collected 3950 from pot
+*** SUMMARY ***
+Total pot 3950 | Rake 0 
+Board [Kc 8h Kh 9c Jd]
+Seat 1: delvo 01 folded before Flop (didn't bet)
+Seat 2: joe1941 folded before Flop (didn't bet)
+Seat 5: rchdot folded before Flop (didn't bet)
+Seat 6: jutro7 (button) showed [Th Jh] and won (3950) with two pair, Kings and Jacks
+Seat 7: fredmonster9 (small blind) folded on the Turn
+Seat 8: situationist (big blind) mucked [8d Ts]
+Seat 9: Pla8Net folded before Flop (didn't bet)

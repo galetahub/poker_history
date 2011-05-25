@@ -1,0 +1,44 @@
+***** Hand History for Game 4585599791 *****
+$25 NL Texas Hold'em - Saturday, June 24, 19:22:50 ET 2006
+Table Start Time (Real Money)
+Seat 5 is the button
+Total number of players : 10
+Seat 1: kalimeroo ( $17.65 )
+Seat 8: h0lden2Aces ( $25.10 )
+Seat 2: MadeInUSSR ( $28.70 )
+Seat 9: alladin123 ( $8.85 )
+Seat 5: Rcoffman4 ( $18.36 )
+Seat 6: luckyj_666 ( $23.70 )
+Seat 10: mrspikester1 ( $25.95 )
+Seat 7: bc_junior ( $26.05 )
+Seat 3: ihavetwodads ( $24 )
+Seat 4: vegas1225 ( $25.35 )
+luckyj_666 posts small blind [$0.10].
+bc_junior posts big blind [$0.25].
+** Dealing down cards **
+Dealt to MadeInUSSR [  Kd Kh ]
+alladin123 folds.
+mrspikester1 calls [$0.25].
+kalimeroo calls [$0.25].
+MadeInUSSR raises [$1.50].
+ihavetwodads folds.
+vegas1225 folds.
+Rcoffman4 folds.
+luckyj_666 folds.
+bc_junior folds.
+>You have options at Table  97047 Table!.
+mrspikester1 calls [$1.25].
+>You have options at Table  96545 Table!.
+kalimeroo raises [$4.50].
+>You have options at Table  97047 Table!.
+MadeInUSSR calls [$3.25].
+mrspikester1 folds.
+** Dealing Flop ** [ 8h, 7s, 5s ]
+kalimeroo is all-In.
+MadeInUSSR calls [$12.90].
+** Dealing Turn ** [ 6c ]
+** Dealing River ** [ 3s ]
+kalimeroo shows [ Ah, As ] a pair of aces.
+MadeInUSSR shows [ Kd, Kh ] a pair of kings.
+kalimeroo wins $35.30 from  the main pot  with a pair of aces.
+>You have options at Table  97047 Table!.

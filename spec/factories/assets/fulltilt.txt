@@ -1,0 +1,37 @@
+Full Tilt Poker Game #28611675201: Table Citation (6 max) - $0.10/$0.25 - No Limit Hold'em - 15:24:11 ET - 2011/02/28
+Seat 1: triphead ($25), is sitting out
+Seat 2: phishkilla ($29.84)
+Seat 3: CalinS ($25)
+Seat 4: Mike_8_88 ($14.90)
+Seat 5: MOLLOT ($26.41)
+Seat 6: Raising Stud ($16.40)
+Mike_8_88 posts the small blind of $0.10
+MOLLOT posts the big blind of $0.25
+The button is in seat #3
+*** HOLE CARDS ***
+Dealt to MOLLOT [4c 3s]
+Raising Stud calls $0.25
+phishkilla folds
+CalinS folds
+Mike_8_88 calls $0.15
+MOLLOT checks
+*** FLOP *** [8c 9s Qd]
+Mike_8_88 checks
+MOLLOT has 15 seconds left to act
+MOLLOT checks
+triphead has returned
+Raising Stud bets $0.75
+Mike_8_88 folds
+MOLLOT folds
+Uncalled bet of $0.75 returned to Raising Stud
+Raising Stud mucks
+Raising Stud wins the pot ($0.72)
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03
+Board: [8c 9s Qd]
+Seat 1: triphead is sitting out
+Seat 2: phishkilla didn't bet (folded)
+Seat 3: CalinS (button) didn't bet (folded)
+Seat 4: Mike_8_88 (small blind) folded on the Flop
+Seat 5: MOLLOT (big blind) folded on the Flop
+Seat 6: Raising Stud collected ($0.72), mucked

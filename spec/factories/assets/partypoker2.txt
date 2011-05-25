@@ -1,0 +1,36 @@
+***** Hand History for Game 59977110408 ***** (Poker Stars)
+$600.00 USD PL Omaha - Monday, March 28, 08:28:46 ET 2011
+Table Cressida IX (Real Money)
+Seat 5 is the button
+Seat 1: m_reed05 ( $2055.45 USD )
+Seat 2: E1ephant ( $2484.60 USD )
+Seat 3: Juice It Up ( $600.00 USD )
+Seat 4: coxnator ( $1313.90 USD )
+Seat 5: jvans ( $732.00 USD )
+Seat 6: Yurec1707 ( $1973.80 USD )
+Yurec1707 posts small blind [$3.00 USD].
+m_reed05 posts big blind [$6.00 USD].
+** Dealing down cards **
+Dealt to Yurec1707 [  Ac Kc 6h 4d ]
+E1ephant folds
+Juice It Up folds
+coxnator raises [$12.00 USD]
+jvans folds
+Yurec1707 raises [$39.00 USD]
+m_reed05 folds
+coxnator calls [$30.00 USD]
+** Dealing Flop ** [ 7c, Kh, 2c ]
+Yurec1707 bets [$66.00 USD]
+coxnator calls [$66.00 USD]
+** Dealing Turn ** [ Jc ]
+Yurec1707 checks
+coxnator bets [$84.00 USD]
+Yurec1707 raises [$330.00 USD]
+coxnator calls [$246.00 USD]
+** Dealing River ** [ 2d ]
+Yurec1707 bets [$879.00 USD]
+coxnator calls [$875.90 USD]
+Yurec1707 wins $3.10 USD
+Yurec1707 shows [Ac, Kc 6h 4d ]
+Yurec1707 wins $2630.80 USD from main pot
+coxnator doesn't show [Tc, 4s Qc 2s ]

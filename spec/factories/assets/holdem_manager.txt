@@ -1,0 +1,26 @@
+***** Hand History for Game 59321376937 ***** (Poker Stars)
+$1000.00 USD NL Texas Hold'em - Thursday, March 17, 02:36:47 ET 2011
+Table Elpis VIII (Real Money)
+Seat 2 is the button
+Seat 1: nolimitguy ( $726.00 USD )
+Seat 2: Yurec1707 ( $1019.00 USD )
+Yurec1707 posts small blind [$5.00 USD].
+nolimitguy posts big blind [$10.00 USD].
+** Dealing down cards **
+Dealt to Yurec1707 [  6s 7s ]
+Yurec1707 raises [$25.00 USD]
+nolimitguy calls [$20.00 USD]
+** Dealing Flop ** [ Th, 8s, Qs ]
+nolimitguy checks
+Yurec1707 bets [$50.00 USD]
+nolimitguy raises [$130.00 USD]
+Yurec1707 calls [$80.00 USD]
+** Dealing Turn ** [ 2s ]
+nolimitguy bets [$180.00 USD]
+Yurec1707 raises [$859.00 USD]
+nolimitguy calls [$386.00 USD]
+Yurec1707 wins $293.00 USD
+** Dealing River ** [ 5h ]
+nolimitguy shows [Qd, Ts ]
+Yurec1707 shows [6s, 7s ]
+Yurec1707 wins $1451.50 USD from main pot

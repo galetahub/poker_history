@@ -1,0 +1,41 @@
+= Poker History parse
+
+Parse poker history from different poker-rooms.
+
+== Install
+
+  gem 'poker_history'
+
+== Usage
+
+  parser = PokerHistory.parse(source)
+  parser.game
+
+or
+
+  parser = PokerHistory::Rooms::PokerStars.new(source)
+  parser.parse
+  parser.parsed? # true
+  parser.game # PokerHistory::Game
+
+=== PokerHistory::Game
+
+ * title
+ * kind
+ * limit_kind
+ * date
+ * table_name
+ * total_pot
+ * rake
+ * max_players
+ * blinds_amounts
+ * description
+ * button_seat
+ * board
+ * tournament
+ * players_count
+ * hero
+ * players
+ * actions
+
+Copyright (c) 2011 Aimbulance, released under the MIT license

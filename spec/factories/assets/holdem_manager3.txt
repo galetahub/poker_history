@@ -1,0 +1,44 @@
+***** Hand History for Game 30646542604 ***** (Full Tilt)
+Tourney Hand NL Texas Hold'em - Monday, May 23, 12:36:39 ET 2011
+Table MiniFTOPS Main Event (234094317) Table 629 (Real Money)
+Seat 5 is the button
+Seat 1: Barny Boatman ( $43321.00 USD )
+Seat 2: josephblu5 ( $13839.00 USD )
+Seat 3: awojj ( $12038.00 USD )
+Seat 4: yamuckit ( $20686.00 USD )
+Seat 5: oletordaniel2mk ( $59690.00 USD )
+Seat 6: Yurec1707 ( $10396.00 USD )
+Seat 7: pokerdraw ( $39787.00 USD )
+Seat 8: tonny1976 ( $69923.00 USD )
+Seat 9: jeff_210 ( $1989.00 USD )
+Yurec1707 posts small blind [$600.00 USD].
+pokerdraw posts big blind [$1200.00 USD].
+Barny Boatman posts ante of [$150.00 USD].
+josephblu5 posts ante of [$150.00 USD].
+awojj posts ante of [$150.00 USD].
+yamuckit posts ante of [$150.00 USD].
+oletordaniel2mk posts ante of [$150.00 USD].
+Yurec1707 posts ante of [$150.00 USD].
+pokerdraw posts ante of [$150.00 USD].
+tonny1976 posts ante of [$150.00 USD].
+jeff_210 posts ante of [$150.00 USD].
+** Dealing down cards **
+Dealt to Yurec1707 [  Kc Qh ]
+tonny1976 folds
+jeff_210 folds
+Barny Boatman folds
+josephblu5 folds
+awojj raises [$11888.00 USD]
+yamuckit folds
+oletordaniel2mk raises [$44400.00 USD]
+Yurec1707 calls [$9646.00 USD]
+pokerdraw folds
+oletordaniel2mk shows [Ts, Td ]
+Yurec1707 shows [Kc, Qh ]
+awojj shows [7d, 8d ]
+oletordaniel2mk wins $32512.00 USD
+** Dealing Flop ** [ 4h, Kh, Jd ]
+** Dealing Turn ** [ 7s ]
+** Dealing River ** [ 2d ]
+oletordaniel2mk wins $3284.00 USD from main pot
+Yurec1707 wins $33288.00 USD from main pot

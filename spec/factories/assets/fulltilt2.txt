@@ -1,0 +1,49 @@
+Full Tilt Poker Game #28611751780: Table Citation (6 max) - $0.10/$0.25 - No Limit Hold'em - 15:26:40 ET - 2011/02/28
+Seat 1: triphead ($25)
+Seat 2: phishkilla ($32.50)
+Seat 3: CalinS ($25)
+Seat 4: Mike_8_88 ($14.15)
+Seat 5: MOLLOT ($22.66)
+Seat 6: Raising Stud ($18.37)
+phishkilla posts the small blind of $0.10
+CalinS posts the big blind of $0.25
+The button is in seat #1
+*** HOLE CARDS ***
+Dealt to MOLLOT [3c 2h]
+Mike_8_88 calls $0.25
+MOLLOT has 15 seconds left to act
+MOLLOT folds
+Raising Stud calls $0.25
+triphead folds
+phishkilla calls $0.15
+CalinS checks
+*** FLOP *** [6h Ad 7d]
+phishkilla checks
+CalinS checks
+Mike_8_88 checks
+Raising Stud checks
+*** TURN *** [6h Ad 7d] [8h]
+phishkilla checks
+CalinS checks
+Mike_8_88 checks
+Raising Stud checks
+*** RIVER *** [6h Ad 7d 8h] [9h]
+phishkilla checks
+CalinS bets $1
+Mike_8_88 folds
+Raising Stud raises to $2
+phishkilla folds
+CalinS calls $1
+*** SHOW DOWN ***
+Raising Stud shows [Tc Jd] a straight, Jack high
+CalinS shows [5h 3h] a flush, Nine high
+CalinS wins the pot ($4.75) with a flush, Nine high
+*** SUMMARY ***
+Total pot $5 | Rake $0.25
+Board: [6h Ad 7d 8h 9h]
+Seat 1: triphead (button) didn't bet (folded)
+Seat 2: phishkilla (small blind) folded on the River
+Seat 3: CalinS (big blind) showed [5h 3h] and won ($4.75) with a flush, Nine high
+Seat 4: Mike_8_88 folded on the River
+Seat 5: MOLLOT didn't bet (folded)
+Seat 6: Raising Stud showed [Tc Jd] and lost with a straight, Jack high

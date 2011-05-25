@@ -1,0 +1,51 @@
+***** Hand History for Game 30647502872 ***** (Full Tilt)
+Tourney Hand NL Texas Hold'em - Monday, May 23, 01:31:35 ET 2011
+Table MiniFTOPS Main Event (234094317) Table 1302 (Real Money)
+Seat 1 is the button
+Seat 1: FouTight ( $35193.00 USD )
+Seat 2: Thuonggy ( $120336.00 USD )
+Seat 3: Vennegoor64 ( $30465.00 USD )
+Seat 4: vinceq ( $82088.00 USD )
+Seat 5: Boshenyatov ( $110949.00 USD )
+Seat 6: CarlosMuc ( $32860.00 USD )
+Seat 7: sacurtele21 ( $72253.00 USD )
+Seat 8: Yurec1707 ( $70448.00 USD )
+Seat 9: Tvister ( $141843.00 USD )
+Thuonggy posts small blind [$1200.00 USD].
+Vennegoor64 posts big blind [$2400.00 USD].
+FouTight posts ante of [$300.00 USD].
+Thuonggy posts ante of [$300.00 USD].
+Vennegoor64 posts ante of [$300.00 USD].
+vinceq posts ante of [$300.00 USD].
+Boshenyatov posts ante of [$300.00 USD].
+CarlosMuc posts ante of [$300.00 USD].
+sacurtele21 posts ante of [$300.00 USD].
+Yurec1707 posts ante of [$300.00 USD].
+Tvister posts ante of [$300.00 USD].
+** Dealing down cards **
+Dealt to Yurec1707 [  Tc Js ]
+vinceq folds
+Boshenyatov folds
+CarlosMuc folds
+sacurtele21 folds
+Yurec1707 raises [$4800.00 USD]
+Tvister calls [$4800.00 USD]
+FouTight folds
+Thuonggy folds
+Vennegoor64 folds
+** Dealing Flop ** [ 9s, Jc, 5d ]
+Yurec1707 checks
+Tvister bets [$6880.00 USD]
+Yurec1707 calls [$6880.00 USD]
+** Dealing Turn ** [ 2d ]
+Yurec1707 checks
+Tvister bets [$13455.00 USD]
+Yurec1707 calls [$13455.00 USD]
+** Dealing River ** [ Jh ]
+Yurec1707 checks
+Tvister bets [$116408.00 USD]
+Yurec1707 calls [$45013.00 USD]
+Tvister wins $71395.00 USD
+Tvister shows [Ks, Kh ]
+Yurec1707 shows [Tc, Js ]
+Yurec1707 wins $146596.00 USD from main pot
